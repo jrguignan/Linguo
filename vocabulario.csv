@@ -1,5 +1,858 @@
-Car,Carro
-Dog,Perro
-Pencil,Lapiz
-Telephone,Telefono
-Lips,Labios
+Breakdown,Desglose
+Criteria,Criterios
+Engine,Motor
+Guidelines,Directrices
+Policy,Política
+Superb,Soberbio [Excelente]
+To Afford,Permitirse El Lujo De
+Approval,Aprobación
+Severance Pay,Indemnización Por Despido
+Due To,Debido A
+Vicious Circle,Círculo Vicioso
+Somehow,De Alguna Manera
+To Go Down,"Bajar, Descender"
+Entire,Entero
+To Sue,"Demandar, Poner Un Pleito"
+Daycare Center,Guardería
+Incompetent,Incompetente
+May I Speak To...?,¿Puedo Hablar Con...?
+Advertising,Publicidad
+Although,Aunque
+As Soon As,"Tan Pronto Como, En Cuanto"
+Beside,Al Lado De
+Confident,Confiado
+Defective,Defectuoso
+Slot Machine,Máquina Tragaperras
+In Detail,En Detalle
+Right Away,Enseguida
+To Hide,"Esconder, Ocultar"
+Gradual,Gradual
+Affair,Asunto
+Analysis,Análisis
+Individual,Individuo
+Blind,Ciego
+Criticism,Crítica
+Disadvantage,Desventaja
+I Don'T Care,Me Trae Sin Cuidado
+Jealous,Celoso
+Most,La Mayoría De
+Niece,Sobrina
+Resources,Recursos
+Actual,Real
+Ambitious,"Inquieta, Ambiciosa"
+Unbelievable,Increíble
+Atmosphere,"Ambiente, Atmósfera"
+To Have On,Tener Puesto [Ropa]
+Appetizer,Aperitivo
+Rewarding,Gratificante
+To Congratulate,Dar La Enhorabuena
+"Farther, Further",Más Lejos
+Upper Class,La Clase Alta
+Life Expectancy,Esperanza De Vida
+Loud,Alto (Un Ruido)
+Nowadays,Hoy En Día
+Percentage,Porcentaje
+Edge,"Borde, Filo"
+To Give In,"Ceder, Rendirse"
+Heir,Heredera
+To Back Up,"Apoyar, Respaldar"
+To Doubt,Dudar
+To Seem,Parecer
+Actually,En Realidad
+Annual,Anual
+All Of A Sudden,De Repente
+Severe,Severo
+Complaint,Queja
+In-Laws,Parientes Políticos
+The Moral,La Moraleja
+Fluent,"Suelto, Fluido [Hablando]"
+To Seek,Buscar
+Huge,Enorme
+To Give Away,Regalar (Por No Querer)
+Owner,Dueño
+Profits,Beneficios [Económicos]
+To Unwrap,Desenvolver
+The Ground,El Suelo
+The Opposite Of,Lo Contrario De
+The Red Cross,La Cruz Roja
+To Break The Ice,Romper El Hielo
+To Consult,Consultar Con
+Soil,Suelo [Agrícola]
+Meeting Place,Punto De Encuentro
+Ant,Hormiga
+Century,Siglo
+By The Way,"Por Cierto, A Propósito"
+Devoted To,Dedicado A
+Frequent,Frecuente
+Gesture,"Gesto, Detalle"
+In Charge Of,Responsable De
+The Olympic Games,Los Juegos Olímpicos
+Nonsense,Tonterías
+Since When...,Desde Cuándo...
+Rivalry,Rivalidad
+To Appear,Aparecer
+To Surrender,Rendirse
+Flesh And Blood,Carne Y Hueso
+To Find Out,"Averiguar, Enterarse"
+To Identify,Identificar
+Adequate,Adecuado
+Anyway,De Todos Modos
+Appearance,"Aspecto, Apariencia"
+Crowd,"Multitud, Muchedumbre"
+Economical,Barato
+To Get Undressed,Desvestirse
+Holiday,Día Festivo
+It Doesn'T Make Sense,No Tiene Sentido
+Never Mind,Olvídalo
+Pipe,"Tubo, Tubería"
+Concrete,Hormigón
+The Plague,La Peste
+Appreciative,Agradecido
+To Advance,Avanzar
+To Apologize,Pedir Perdón
+To Be Sure Of,Estar Seguro De
+To Clear Up,Aclarar
+To Develop,Desarrollar
+To Fill Out,Rellenar [Un Impreso]
+To Cross Out,Tachar
+Ministry,Ministerio
+Fishing,La Pesca
+Arrival,Llegada
+Beneficial,Beneficioso
+Freely,Libremente
+Glad,Contento
+Fiancé,Prometido
+Suntan,Bronceada
+To Untie,Desatar
+Printer,Impresora
+Respectable,Respetable
+Statement,Afirmación
+Fleet,Flota
+To Avoid,Evitar
+To Balance,Equilibrar
+A Troublemaker,Un Alborotador
+To Deliver,Entregar
+Settler,Colonizador
+To Hit,"Pegar, Golpear"
+To Reject,Rechazar
+While,"Mientras, Mientras Que"
+Above,"Por Encima De, Sobre"
+Advice,"Consejo, Asesoramiento"
+Approach,"Enfoque, Planteamiento"
+Common Sense,Sentido Común
+Delay,Retraso
+Blood,Sangre
+To Undertake,Emprender
+Income,Ingresos
+Nature,Naturaleza
+Prohibited,Prohibido
+Quality,Calidad
+Surface,Superficie
+To Approve,Aprobar
+To Bring Up,Sacar [Un Tema]
+To Climb,"Trepar, Subir"
+To Deal With,Tratar Con
+To Exclude,Excluir
+To Have A Good Time,"Divertirse, Pasarlo Bien"
+To Regret,Arrepentirse
+To Sign,Firmar
+Afraid,"Miedoso, Temeroso"
+Approximately,Aproximadamente
+Awful,Horrible
+Border,Frontera
+Consumption,Consumo
+Difficulty,Dificultad
+To Argue,Discutir [Acaloradamente]
+Hopeless,"Perdido, Sin Esperanza"
+Snail,Caracol
+Accommodation,Alojamiento
+Quarter,Trimestre
+A Setback,Un Contratiempo
+Notepad,Bloc De Notas
+To Overflow,Desbordar
+To Consist Of,Consistir En
+Nursing Home,Residencia De Ancianos
+To Fall Down,Caerse
+To Get Worse,Empeorarse
+To Manage,Dirigir
+Effectiveness,Eficacia
+Octopus,Pulpo
+Afterwards,Después
+As If,Como Si
+Backwards,Hacia Atrás
+Brief,Breve
+Constantly,Constantemente
+Form,"Impresa, Formulario"
+To Be In Touch With,Estar En Contacto Con
+Recently,Recientemente
+To Overestimate,Sobrestimar
+Teamwork,Trabajo En Equipo
+To Change The Subject,Cambiar De Tema
+To Erase,Borrar
+To Get By,"Apañarse, Salir Del Paso"
+To Go Into,Entrar En
+To Locate,Localizar
+To Realize,Darse Cuenta De
+To Set,"Fijar, Establecer"
+To Trust,"Confiar En, Fiarse De"
+As Usual,Como De Costumbre
+Banker,Banquero
+Crowded,Abarrotado
+Guy,"Tipo, Individuo"
+Interested In,Interesado En
+On Purpose,A Propósito
+Requirements,Requisitos
+Sharp,"Afilado, Agudo"
+Silver,Plata
+Settlement,"Acuerdo, Arreglo"
+To Decrease,Disminuir
+To File,Archivar
+To Hit The Bull'S Eye,Hacer Diana
+To Schedule,Programar
+To Throw Away,Tirar [A La Basura]
+Up To Date,Actualizado
+Prevention,Prevención
+Fortunate,Afortunado
+Basement,Sótano
+Basis,"Base, Fundamento"
+To Store,Almacenar
+Convenient,"Cómodo, Oportuno"
+Housewife,Ama De Casa
+In Any Case,En Todo Caso
+Proud,Orgulloso
+Shy,Tímido
+Soap,Jabón
+That'S Right,"Eso Es, En Efecto"
+Helpful,Servicial
+To Get Nervous,Ponerse Nervioso
+To Surround,Rodear
+To Recognize,Reconocer
+To Shout,Gritar
+To Turn,"Girar, Torcer"
+Sour,Agrio
+Scientist,Científico
+Disorganized,Desorganizado
+To Test,"Ensayar, Poner A Prueba"
+Concerning,Referente A
+Delivery,Entrega
+Blood Pressure,Tensión Sanguínea
+Illness,Enfermedad
+Riddle,Acertijo
+Mixture,Mezcla
+Appraisal,Valoración
+So Long,Hasta La Vista
+To Be Worth,Valer
+To Choose,Elegir
+To Go Up,"Subir, Ascender"
+Towards,Hacia
+Flame,Llama
+Sincere,Sincero
+Blessing,Bendición
+Dependable,Responsable
+A Reminder,Un Recordatorio
+Nightlife,Vida Nocturna
+To Widen,Ensanchar
+Rate,Tasa
+Signature,Firma
+Such,Tal
+To Arrange,"Arreglar, Organizar"
+To Weaken,Debilitar
+To Scare,Asustar
+Watermelon,Sandía
+Shadow,Sombra
+Weekly,"Semanal, Semanalmente"
+Lever,Palanca
+Improvement,Mejora
+To Sweep,Barrer
+Strategy,Estrategia
+Telephone Book,Guía Telefónica
+To Call Back,Volver A Telefonear
+To Get Rich,Enriquecerse
+Viable,Viable
+Broad-Minded,De Mente Abierta
+To State,Afirmar
+Simultaneous,Simultáneo
+Mystery,Misterio
+Bench,Banco [Para Sentarse]
+Capable Of,Capaz De
+Current,Actual
+Income Tax,Impuesto Sobre La Renta
+On The Contrary,Al Contrario
+Hectic,Ajetreado
+Statistics,Estadísticas
+Thoughts,Pensamientos
+To Sharpen,"Afilar, Sacar Punta"
+Consultant,Consultor
+To Expand,Ampliar
+To Grow Up,Hacerse Mayor
+To Grab,Agarrar
+To Request,Pedir
+Helpless,Desamparado
+Royalty,Realeza
+Valuable,Valioso
+Steel,Acero
+A Relief,Un Alivio
+Semicolon,Punto Y Coma
+Economics,Economía
+Lately,Últimamente
+Main,Principal
+Quite A Few,Bastantes
+Bothersome,Molesto
+To Comment On,Comentar
+Effectively,Eficazmente
+To Feel Like,Tener Ganas De
+To Hire,Contratar [A Empleados]
+To Make A Decision,Tomar Una Decisión
+Harbor,Puerto [De Mar]
+Physical,Físico
+Beneath,Debajo De
+Inaccurate,Impreciso
+Previous,Anterior
+To Award,"Adjudicar, Premiar"
+To Argue,Discutir [Acaloradamente]
+To Assign,Asignar
+To Call A Meeting,Convocar Una Reunión
+Deadly,Mortal
+Surroundings,Alrededores
+To Lack,"Carecer De, Faltar"
+To Promote,"Promocionar, Promover"
+To Report To,Depender De [Jerárquico]
+To Weigh,Pesar
+Together,Juntos
+The Devil,El Diablo
+Benefit,Beneficio
+Crucial,Crucial
+Environment,"Entorno, Medio Ambiente"
+Bodyguard,Guardaespaldas
+Seldom,Raramente
+The Competition,La Competencia
+To Assist,Ayudar
+To Bill,Facturar
+To Blow,Soplar
+To Carry Out,Llevar A Cabo
+To Get Back,Llegar De Regreso
+Consumer,Consumidor
+Flood,Inundación
+To Settle,"Resolver, Liquidar"
+Headlights,Luces [Del Coche]
+Applicant,"Candidato, Solicitante"
+Likely,Probable
+Nephew,Sobrino
+To Be In A Good Mood,Estar De Buen Humor
+To Emphasize,Hacer Hincapié En
+To Get Off,Bajarse De
+To Go Out,Salir
+To Pay Attention To,Prestar Atención A
+To Take Off,Quitarse [Ropa]
+Weight,Peso
+Viability,Viabilidad
+To Overlap,Solaparse
+Appropriately,Apropiadamente
+Available,Disponible
+Uncomfortable,Incómodo
+In Spite Of,A Pesar De
+Now And Then,De Vez En Cuando
+Surplus,Excedente
+To Take Care Of,Cuidar
+The Far East,El Lejano Oriente
+Briefcase,"Portafolios, Cartera"
+Choice,Elección
+Deadline,"Fecha Tope, Plazo"
+Grateful,Agradecido
+Incapable Of,Incapaz De
+Filet Mignon,Solomillo
+To Settle Down,Sentar La Cabeza
+To Be In A Bad Mood,Estar De Mal Humor
+Approach,"Enfoque, Planteamiento"
+To Devote,Dedicar
+The Remains,Los Restos
+To Prove,Demostrar
+To Quit,"Dejar, Abandonar"
+Deaf,Sordo
+To Specify,Especificar
+To Turn Off,Apagar
+To Shorten,Acortar
+Timetable,"Programa, Horario"
+Carpet,Moqueta
+Commitment,Compromiso
+Seniority,Antigüedad [En Una Empresa]
+To Sum Up,Resumir
+Package,Paquete
+Pain,Dolor
+Reasonable,Razonable
+To Goof Off,Hacer El Ganso
+Influential,Influyente
+To Get Ready For,Prepararse Para
+To Lend,Prestar
+Ingenuity,Ingenio
+To Update,Actualizar
+Traffic Light,Semáforo
+Typical,Típico
+Anyplace,En Cualquier Sitio
+Change,"Calderilla, Cambio"
+Confidence,Confianza
+Personnel,Personal [De Plantilla]
+To Appoint,Nombrar
+To Guarantee,Garantizar
+To Remove,"Quitar, Extraer"
+Lobster,Langosta [De Mar]
+To Write Down,Apuntar
+Unemployment,Paro
+Contest,Concurso
+Deaf-Mute,Sordomudo
+Extremely,Extremadamente
+Heartburn,Ardor [De Estómago]
+Expenses,Gastos
+Height,Altura
+Quietly,Tranquilamente
+Conscientious,Concienzudo
+Softness,Blandura
+To Borrow,Pedir Prestado
+To Criticize,Criticar
+To Bargain,Regatear
+To Measure,Medir
+To Reach An Agreement,Llegar A Un Acuerdo
+Weekday,Día De La Semana Laboral
+Apparently,"Por Lo Visto, Al Parecer"
+Competent,Competente
+Explanation,Explicación
+Recent,Reciente
+Respect,Respeto
+Stage,Etapa
+To Assume,"Suponer, Asumir"
+To Be Pessimistic,Ser Pesimista
+To Fail,Fracasar
+To Pressure,Presionar
+To Refer To,Referirse A
+Custom,Costumbre
+Since,"Desde Que, Puesto Que"
+Breeze,Brisa
+Accent,Acento
+Broom,Escoba
+To Waste,"Desperdiciar, Malgastar"
+Unexpected,Inesperado
+To Be In The Way,Estar En Medio
+To Gripe,Quejarse
+Monkey,Mono
+Department Store,Gran Almacén
+I'M Glad,Me Alegro
+Loss,Pérdida
+Strength,Fuerza
+Stupid,Tonto
+To Ruin,Estropear
+To Succeed,"Tener Éxito, Triunfar"
+Tough,"Dura, Difícil"
+Trouble,Problemas
+Useless,Inútil
+Within,Dentro De
+To Overthrow,Derrocar
+To Shop,Hacer Compras
+Field,Campo
+Vacuum Cleaner,Aspiradora
+To Give Back,Devolver
+To Take Advantage Of,Aprovechar
+Unlikely,Improbable
+To Cut Back,"Recortar, Reducir"
+To Aid,Ayudar
+To Bite,Morder
+To Gain,"Ganar, Adquirir"
+To Insist On,Insistir En
+Frozen,Congelado
+Pill,"Pastilla, Píldora"
+Spelling,Ortografía
+Typically,Típicamente
+A Two-Way Street,Una Calle De Doble Sentido
+Ad,Anuncio [En Prensa]
+Bug,Bicho
+Concise,"Escueto, Conciso"
+Engineering,Ingeniería
+Forbidden,Prohibido
+Heat,Calor
+Hidden,"Escondido, Oculto"
+Impatient,Impaciente
+Strategic,Estratégico
+To Forbid,Prohibir
+To Impress,Impresionar
+To Sew,Coser
+To Thank,Agradecer
+Uncommon,Raro
+Affectionate,Cariñoso
+As Well As,Así Como
+Hard-Boiled Egg,Huevo Duro
+Cage,Jaula
+Central Heating,Calefacción Central
+Data Processing,Proceso De Datos
+Garbage,Basura
+In Advance,Por Adelantado
+In The Meantime,Mientras Tanto
+Length,Longitud
+Psychological,Psicológico
+Thankful,Agradecido
+To Accomplish,"Lograr, Llevar A Cabo"
+To Flow,Fluir
+To Force,Obligar
+To Sink,Hundir
+Underneath,Debajo De
+Adequately,Adecuadamente
+Blanket,Manta
+Budget,Presupuesto
+Fear,"Temor, Miedo"
+In Theory,En Teoría
+Naturally,Naturalmente
+Arabic,Árabe [El Idioma]
+Sewing Machine,Máquina De Coser
+To Assure,Asegurar
+To Charge,"Cobrar, Cargar"
+To Forecast,Prever
+To Hold A Meeting,Mantener Una Reunión
+To Skip,"Saltar, Omitir"
+To Stay In Touch,Seguir En Contacto
+Underwear,Ropa Interior
+Well-Being,Bienestar
+Advantageous,Ventajoso
+Brochure,Folleto
+Departure,Salida
+Freedom,Libertad
+Garlic,Ajo
+Headquarters,Oficina Central
+Implementation,Implantación
+Indispensable,Imprescindible
+Necessity,Necesidad
+Brand,Marca
+Envious,Envidioso
+Excited,Emocionado
+Host,Anfitrión
+Machinery,Maquinaria
+Mainly,Principalmente
+Maintenance,Mantenimiento
+On The Phone,Por Teléfono
+Patient,Paciente
+Productivity,Productividad
+Shape,Forma - Configuración
+To Owe,Deber [Algo]
+Billboard,Valla Publicitaria
+Cashier,Cajero
+So That...,Para Que...
+To Collect,Cobrar
+To Enclose,Adjuntar [A Una Carta]
+To Share,Compartir
+To Tip,Dejar Propina
+Unpleasant,Desagradable
+Willpower,Fuerza De Voluntad
+And So On,Etcétera
+Birth Rate,Tasa De Natalidad
+To Outlive,Sobrevivir A [Una Persona]
+Fully,Plenamente
+Just In Case,Por Si Acaso
+Loose,Flojo - Suelto
+Procedure,Procedimiento
+Shareholder,Accionista
+Strike,Huelga
+To Intend,Tener Intención De
+To Join,Incorporarse A - Unirse A
+To Leave A Tip,Dejar Una Propina
+To Prohibit,Prohibir-Impedir
+To Propose,Proponer
+To Support,Apoyar-Mantener
+Windy,Ventoso
+As Though,Como Si
+Bonus,Prima-Incentivo
+Certainly,Desde Luego-Por Supuesto
+Fingernail,Uña
+Nowhere,Ninguna Parte
+Out Of Control,Fuera De Control
+Portable,Portátil
+Precaution,Precaución
+Qualified,Cualificado
+Tire,Neumático
+To Involve,Involucrar
+To Lower,Bajar-Hacer Descender
+To Postpone,Posponer
+To Proceed,Proceder
+To Suppose,Suponer
+Unusual,Raro
+Lower,Inferior-Más Bajo
+Miracle,Milagro
+Bargain,Ganga-Chollo
+Envy,Envidia
+Fluently,Con Soltura
+Halfway,A Mitad De Camino
+Juice,Jugo-Zumo
+Persuasive,Persuasivo
+Philosophy,Filosofía
+The Press,La Prensa
+To Explore,Explorar
+To Get Dressed,Vestirse
+To Get Together,Reunirse
+To Judge,Juzgar
+To Pretend,Fingir
+To Profit From,Beneficiarse De
+Unacceptable,Inaceptable
+Citizen,Ciudadano
+Drawer,Cajón
+Fluency,Soltura
+Groceries,Ultramarinos-Comestibles
+Hairstyle,Peinado
+Hearing,Audición-Capacidad Auditiva
+Little By Little,Poco A Poco
+Neighborhood,Barrio
+Recession,Recesión
+Selfish,Egoísta
+To Predict,Predecir
+Tool,Herramienta
+Variety,Variedad
+Wire,Alambre-Cable
+Beyond,Más Allá De
+In Fashion,De Moda
+Measurements,Medidas
+Misunderstanding,Malentendido
+On Top Of,Encima De
+Pile,Montón
+Pleased,Contento
+Priest,Sacerdote-Cura
+Profile,Perfil
+Prospects,Perspectivas
+Shellfish,Marisco
+Slight,Leve-Ligero
+The Cost Of Living,El Coste De La Vida
+Wise,Inteligente-Sabio
+A Requirement,Un Requisito
+Brakes,Frenos
+By Chance,Por Casualidad
+Cardboard,Papel-Cartón
+Debt,Deuda
+For Good,Para Siempre
+Jewel,Joya
+Not At All,Para Nada-En Absoluto
+Plenty Of,De Sobra
+Stuff,Materia-Cosa-Sustancia
+To Make An Effort,Hacer Un Esfuerzo
+To Point Out,Señalar-Resaltar
+To Swallow,Tragar
+To Wish,Desear
+Vehicle,Vehículo
+Jew,Judío
+Neither... Nor,Ni... Ni
+Advertising Campaign,Campaña Publicitaria
+Branch,Sucursal-Rama
+Extraordinary,Extraordinario
+False Alarm,Falsa Alarma
+Handy,Útil
+Peace,Paz
+Peculiar,Peculiar
+Politician,Político
+Prediction,Predicción
+Profitability,Rentabilidad
+Provisional,Provisional-Temporal
+Realistic,Realista
+To Point,Señalar
+To Wonder,Preguntarse
+Vice Versa,Viceversa
+Acceptance,Aceptación
+Accountant,Contable
+Flag,Bandera
+Instability,Inestabilidad
+Profitable,Rentable
+Reading,Lectura
+Receipt,Recibo
+Shipment,Envío [De Mercancías]
+Source,Fuente-Origen
+Switch,Interruptor
+Branches,Ramas
+The Management,La Dirección
+To Govern,Gobernar
+To Mail,Echar Al Correo
+To Provide,Proporcionar-Suministrar
+To Provoke,Provocar
+Trade,Comercio
+Unlucky,Desafortunado
+Competitive,Competitivo
+Considerate,Considerado
+Easy-Going,Tranquilo
+Filing Cabinet,Archivador
+Flavor,Sabor
+Forest Fire,Incendio Forestal
+Governor,Gobernador
+In View Of,En Vista De
+Left-Handed,Zurdo
+Paranoid,Paranoico
+Prestige,Prestigio
+Proof,Demostración-Prueba
+Questionable,Dudoso
+Seafood,Pescado - Marisco
+Specialist,Especialista
+To Be Worth It,Valer La Pena
+To Perform,Realizar
+To Publish,Publicar
+To Switch,Cambiar
+Willing,Dispuesto
+Accomplishment,Logro-Consecución
+Advisable,Aconsejable
+Appetite,Apetito
+Bullet,Bala
+Fee,Honorarios
+Golden Rule,Regla De Oro
+Indefinitely,Indefinidamente
+Loudspeaker,Altavoz
+Paradoxical,Paradójico
+Plumber,Fontanero
+Previously,Anteriormente
+Proper,Adecuado
+Dead End,Callejón Sin Salida
+Search,Búsqueda
+To Be Worthwhile,Valer La Pena
+To Land,Aterrizar-Tomar Tierra
+To Memorize,Memorizar
+To Question,Cuestionar
+To Specialize,Especializarse
+To Switch On,Encender
+Tray,Bandeja
+The English Channel,El Canal De La Mancha
+Aware Of,Consciente De
+Embarrassed,Avergonzado-Violento
+Heading,Encabezamiento
+Promising,Prometedor
+Quota,Cuota
+To Graduate,Graduarse
+To Lock,Cerrar Con Llave
+To Supply,Proporcionar-Suministrar
+To Switch Off,Apagar
+To Triple,Triplicar
+To Wrap,Envolver
+Treasure,Tesoro
+Waist,Cintura
+At Full Speed,A Toda Velocidad
+Authentic,Auténtico
+Based On,Basado En
+Chapter,Capítulo
+Chewing Gum,Chicle
+Flour,Harina
+Hold On!,¡Espera!
+Hostess,Anfitriona
+In Writing,Por Escrito
+Loan,Préstamo
+Promotion,Ascenso-Promoción
+Radio Station,Emisora De Radio
+Tiny,Diminuto-Muy Pequeño
+To Be Familiar With,Estar Familiarizado Con
+To Shoot,Disparar
+To Treat,Tratar
+Wallet,Cartera-Billetero
+Fare,Tarifa
+Forehead,La Frente
+Impulsive,Impulsivo
+In Common,En Común
+Minority,Minoría
+A Rip-Off,Un Timo
+Prompt,Inmediato-Rápido-Pronto
+Spirit,Espíritu
+The Following,Lo Siguiente
+To Double,Duplicar
+To Raise,Subir-Elevar
+To Warn,Advertir
+Trend,Tendencia
+Unnecessary,Innecesario
+Written,Escrito
+Accounting,Contabilidad
+Cash,Dinero En Metálico
+Dam,Presa
+Dust,Polvo
+Guard,Guarda
+Housework,Trabajo Doméstico
+Injury,Lesión
+Lobby,Vestíbulo [De Hotel]
+Range,Gama
+Rating,Valoración
+Shore,Orilla
+Tank,Depósito
+The Contents,El Contenido
+To Be Willing To,Estar Dispuesto A
+To Split,Dividir
+Alive,Vivo
+Bulletin Board,Tablón De Anuncios
+Dealer,Concesionario
+Every Other Day,Un Día Sí Y Otro No
+Fault,Culpa
+Funds,Fondos
+Incompatible,Incompatible
+Pending,Pendiente
+Seriously,Seriamente
+Short-Term,A Corto Plazo
+Spontaneous,Espontáneo
+Step By Step,Paso A Paso
+Target,Blanco-Objetivo
+To Be In Trouble,Estar Metido En Un Lío
+Waste Basket,Papelera
+Amazing,Asombroso
+Chairman,Presidente Del Consejo
+Compatible,Compatible
+Contagious,Contagioso
+Court,Tribunal
+Dessert,Postre
+Marriage,Matrimonio
+Pleasure,Placer
+Responsible,Responsable
+Task,Tarea
+Increasingly,Cada Vez Más
+To Get Along With,Llevarse Bien Con
+To Reason With,Razonar Con
+Trust,Confianza
+What A Mess!,¡Qué Lío!
+Trick,Truco-Trampa
+Warning,Advertencia
+Youth,Juventud
+Short-Range,A Corto Plazo
+Social Security,Seguridad Social
+Charming,Encantador
+Complex,Complejo
+Death Rate,Tasa De Mortalidad
+Decline,Declive
+Fence,Valla-Cerca
+Go Ahead!,¡Adelante!
+Guilty,Culpable
+Newsstand,Quiosco
+Reasonably,Razonablemente
+Shelf,Estantería
+Cover,Tapa-Cubierta
+Enthusiastic,Entusiasta
+Hallway,Pasillo
+Headlines,Titulares
+Leather,Cuero
+Messy,Desordenado
+Shark,Tiburón
+Shot,Disparo
+Shrimp,Gambas
+Something Like...,Algo Así Como...
+Spy,Espía
+To Motivate,Motivar
+To Please,Agradar-Complacer
+Tune,Melodía
+Wealth,Riqueza-Patrimonio
+Spot,Mancha-Punto
+The Truth,La Verdad
+To Go Sightseeing,Hacer Turismo
+To Name,Nombrar
+Wealthy,Adinerado
+Demanding,Exigente
+Fairly,Bastante
+Fuel,Combustible
+Gradually,Gradualmente
+Hand-Made,Hecho A Mano
+Importer,Importador
+Incentive,Incentivo
+Logical,Lógico
+Stability,Estabilidad
+To Admit,Reconocer-Admitir
+Suddenly,De Repente
+Tip,Propina
+To Crash,Chocar
+To Convince,Convencer
+To Own,Poseer
+To Limp,Cojear
+Kennel,Caseta De Perro
+Sapphire,Zafiro
+Lace,Encaje
+Shoelaces,Cordones
+Predictable,Predecible
+Though,Aunque
+To Deserve,Merecer
