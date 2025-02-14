@@ -11,7 +11,7 @@ Programa creado en Python para practicar vocabulario de ingles
 # Linguo 1.0
 
 <p align="center">
-<img src="images/linguo1.0.jpg"  height=450>
+<img src="images/linguo_1.jpg"  height=450>
 </p>
 
 
