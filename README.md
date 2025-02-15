@@ -1,5 +1,5 @@
 # Linguo - En Construcción
-Programa creado en Python para practicar vocabulario de ingles
+Programa creado en Python para practicar vocabulario de ingles, con pocas modificaciones se puede usar para otros idiomas.
 
 # Índice
 
