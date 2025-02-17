@@ -1,7 +1,7 @@
 # Linguo - En Construcción
 
 <p align="center">
-<img src="images/banner.jpg"  height=400>
+<img src="images/banner.jpg"  height=300>
 </p>
 
 Programa creado en Python para practicar vocabulario de ingles, con pocas modificaciones se puede usar para otros idiomas.
