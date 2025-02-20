@@ -10,6 +10,8 @@ Programa creado en Python para practicar vocabulario de ingles, con pocas modifi
 
 * [Linguo 1.0](#Linguo-1.0) 
 * [Linguo 2.0](#Linguo-2.0) 
+* [Linguo 2.0 Francés](#Linguo-2.0-Francés) 
+* [Programa para Windows](#Programa-para-Windows) 
 * [Autor](#Autor)
 
 
@@ -21,6 +23,11 @@ Programa creado en Python para practicar vocabulario de ingles, con pocas modifi
 
 
 # Linguo 2.0
+
+# Linguo 2.0-Francés
+
+# Programa para Windows
+
 <br>[Volver al Índice](#Índice)
 
 # Autor
