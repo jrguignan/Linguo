@@ -18,14 +18,14 @@ Programa creado en Python para practicar vocabulario de ingles, con pocas modifi
 # Linguo 1.0
 
 <p align="center">
-<img src="images/linguo_1.jpg"  height=450>
+<img src="images/linguo_1.jpg"  height=350>
 </p>
 
 
 # Linguo 2.0
 
 <p align="center">
-<img src="images/linguo_1i.jpg"  height=450>
+<img src="images/linguo_1i.jpg"  height=350>
 </p>
 
 
