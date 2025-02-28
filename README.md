@@ -32,6 +32,10 @@ Programa creado en Python para practicar vocabulario de ingles, con pocas modifi
 
 # Linguo 2.0-Francés
 
+<p align="center">
+<img src="images/linguo_1f.jpg"  height=350>
+</p>
+
 # Programa para Windows
 
 <br>[Volver al Índice](#Índice)
