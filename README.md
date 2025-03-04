@@ -38,6 +38,10 @@ Programa creado en Python para practicar vocabulario de ingles, con pocas modifi
 
 # Programa para Windows
 
+auto-py-to-exe
+pyinstaller
+
+
 <br>[Volver al Índice](#Índice)
 
 # Autor
