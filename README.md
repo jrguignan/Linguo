@@ -25,6 +25,8 @@ Este proyecto contiene dos programas principales. El primer código genera archi
 
 El segundo código implementa una interfaz gráfica con Tkinter para facilitar el aprendizaje de vocabulario en inglés. Permite visualizar palabras en inglés, revelar su traducción al español y reproducir su pronunciación. La aplicación carga el vocabulario desde un archivo CSV utilizando la función cargar_diccionario, que almacena las palabras y sus traducciones en una lista de tuplas. La interfaz se adapta dinámicamente al tamaño de la ventana gracias a la función ajustar_tamanio, que modifica la fuente y el espaciado de los elementos en función del tamaño de la ventana. También se incluyen funciones para navegar entre palabras (siguiente_palabra y anterior_palabra), mostrar la traducción (mostrar_traduccion) y reproducir el audio (pronunciar), verificando previamente si el archivo de audio existe. Además, se ha añadido soporte para mostrar un icono en la interfaz y manejar eventos de redimensionamiento.
 
+<br>[Volver al Índice](#Índice)
+
 # Linguo 2.0
 
 <p align="center">
@@ -39,7 +41,7 @@ Los cambios en esta nueva versión del código incluyen:
 
 - Mejoras en la interfaz, incluyendo una barra de título con un icono personalizado y un diseño optimizado para mejorar la experiencia del usuario.
 
-
+<br>[Volver al Índice](#Índice)
 
 # Linguo 2.0-Francés
 
@@ -53,12 +55,15 @@ Aquí te contamos las principales modificaciones:
 
 - Compatibilidad con caracteres especiales: Se ha mejorado la carga y procesamiento del archivo CSV para asegurar que palabras con acentos y caracteres propios del francés sean correctamente reconocidas y guardadas.
 
+<br>[Volver al Índice](#Índice)
 
 # Programa para Windows
 
 auto-py-to-exe
 pyinstaller
 
+[Linguo 2.0 Ingles](https://drive.google.com/file/d/1ug1SxR05lRF4IgcpCQVY71AshzoJzce6/view?usp=sharing)
+[Linguo 2.0 Frances](https://drive.google.com/file/d/1ver1IoIyiuBUS7QKLr6_GC2dKF5RlS1j/view?usp=sharing)
 
 <br>[Volver al Índice](#Índice)
 
