@@ -31,6 +31,14 @@ El segundo código implementa una interfaz gráfica con Tkinter para facilitar e
 <img src="images/linguo_1i.jpg"  height=350>
 </p>
 
+Los cambios en esta nueva versión del código incluyen:
+
+- Integración de pygame.mixer para la reproducción interna de archivos MP3, eliminando la necesidad de un reproductor externo.
+
+- Nuevo botón de información (mostrar_info), que muestra detalles sobre la aplicación y su funcionamiento en una ventana emergente.
+
+- Mejoras en la interfaz, incluyendo una barra de título con un icono personalizado y un diseño optimizado para mejorar la experiencia del usuario.
+
 
 
 # Linguo 2.0-Francés
