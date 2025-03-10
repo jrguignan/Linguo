@@ -47,6 +47,13 @@ Los cambios en esta nueva versión del código incluyen:
 <img src="images/linguo_1f.jpg"  height=350>
 </p>
 
+Aquí te contamos las principales modificaciones:
+
+- Soporte para francés 🇫🇷: Ahora el sistema genera archivos de audio en francés gracias a gTTS, permitiendo el aprendizaje de este idioma con una correcta pronunciación.
+
+- Compatibilidad con caracteres especiales: Se ha mejorado la carga y procesamiento del archivo CSV para asegurar que palabras con acentos y caracteres propios del francés sean correctamente reconocidas y guardadas.
+
+
 # Programa para Windows
 
 auto-py-to-exe
