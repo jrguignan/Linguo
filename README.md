@@ -12,8 +12,8 @@ Este proyecto es ideal para quienes buscan mejorar su vocabulario en inglés de 
 * [Linguo 2.0](#Linguo-2.0) 
 * [Linguo 2.0 Francés](#Linguo-2.0-Francés) 
 * [Programa para Windows](#Programa-para-Windows) 
-  * [Archivos .exe](#Archivos-.exe) 
-* [¿Cómo utilizar Linguo?](#¿Cómo-utilizar-Linguo?) 
+  * [Archivos exe](#Archivos-exe) 
+* [Como utilizar Linguo](#Como-utilizar-Linguo) 
 * [Autor](#Autor)
 
 
@@ -72,7 +72,7 @@ Luego de esto abre una interfaz gráfica donde podemos configurar opciones como 
 <img src="images/autopytoexe.jpg"  height=350>
 </p>
 
-## Archivos .exe
+## Archivos exe
 - [Linguo 2.0 Ingles](https://drive.google.com/file/d/1ug1SxR05lRF4IgcpCQVY71AshzoJzce6/view?usp=sharing)
 - [Linguo 2.0 Frances](https://drive.google.com/file/d/1ver1IoIyiuBUS7QKLr6_GC2dKF5RlS1j/view?usp=sharing)
 
