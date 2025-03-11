@@ -59,11 +59,20 @@ Aquí te contamos las principales modificaciones:
 
 # Programa para Windows
 
-auto-py-to-exe
-pyinstaller
+Para convertir el código de Python en un archivo ejecutable (.exe), utilizamos auto-py-to-exe, que da una interfaz amigable de pyinstaller. 
 
-[Linguo 2.0 Ingles](https://drive.google.com/file/d/1ug1SxR05lRF4IgcpCQVY71AshzoJzce6/view?usp=sharing)
-[Linguo 2.0 Frances](https://drive.google.com/file/d/1ver1IoIyiuBUS7QKLr6_GC2dKF5RlS1j/view?usp=sharing)
+Es necesario instalar auto-py-to-exe ejecutando pip install auto-py-to-exe, para ejecutar el programa se ejecuta auto-py-to-exe en un command promt.
+
+Luego de esto abre una interfaz gráfica donde podemos configurar opciones como incluir archivos adicionales, ocultar la consola y generar un solo archivo .exe. Una vez configurado, presionamos Convert .py to .exe y el ejecutable se generará en la carpeta output. Esto facilita la distribución del programa sin necesidad de que el usuario tenga Python instalado. 
+
+
+<p align="center">
+<img src="images/autopytoexe.jpg"  height=350>
+</p>
+
+## Archivos .exe
+- [Linguo 2.0 Ingles](https://drive.google.com/file/d/1ug1SxR05lRF4IgcpCQVY71AshzoJzce6/view?usp=sharing)
+- [Linguo 2.0 Frances](https://drive.google.com/file/d/1ver1IoIyiuBUS7QKLr6_GC2dKF5RlS1j/view?usp=sharing)
 
 <br>[Volver al Índice](#Índice)
 
