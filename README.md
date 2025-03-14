@@ -1,10 +1,10 @@
-# Linguo - En Construcción
+# Linguo 
 
 <p align="center">
 <img src="images/banner.jpg"  height=300>
 </p>
 
-Este proyecto es ideal para quienes buscan mejorar su vocabulario en inglés de manera interactiva y práctica, combinando la generación automática de audios con una aplicación gráfica intuitiva. Con pocas modificaciones se puede usar para otros idiomas.
+Este proyecto es ideal para quienes buscan mejorar su vocabulario en inglés de manera interactiva y práctica, combinando la generación automática de audios con una aplicación gráfica intuitiva. Con pequeñas modificaciones se puede usar para otros idiomas.
 
 # Índice
 
@@ -85,6 +85,13 @@ Archivos .exe para correr el programa en windows sin instalar python,ni las libr
 
 # Como utilizar Linguo
 
+1.- Se debe verificar el archivo **vocabulario.csv**, modificando ese archivo se puede agregar o quitar el vocabulario que usa el programa, se coloca la palabra o frase en ingles y en español.
+
+2.- Cada vez que se modifiqué el archivo **vocamulario.csv** se debe correr **audio.exe**, para el idioma adecuado, eso genera y guarda los archivos .mp3 dentro de la **carpeta audio**.
+
+3.- Ya se puede utilizar el programa ejecutando **linguo2.0.exe** 
+
+
 ## Listas de directorios y archivos
 - Carpeta logo -> Donde se guardan las imagenes del los programas.
 - Carpeta audio -> Donde se guardan los archivos de audio.
@@ -92,14 +99,7 @@ Archivos .exe para correr el programa en windows sin instalar python,ni las libr
 - Linguo 2.0_audios.exe -> Permite genera los archivos .mp3
 - Linguo 2.0.exe -> Permite ejecutar el programa. 
 
-1.- Se debe verificar el archivo **vocabulario.csv**, modificando ese archivo se puede agregar o quitar el vocabulario que usa el programa, se coloca la palabra o frase en ingles y en español.
-
-2.- Cada vez que se modifiqué el archivo **vocamulario.csv** se debe correr **audio.exe**, para el idioma adecuado, eso genera y guarda los archivos .mp3 dentro de la **carpeta audio**.
-
-3.- Ya se puede utilizar el programa ejecutando **linguo2.0.exe** 
-
 <br>[Volver al Índice](#Índice)
-
 
 
 # Autor
