@@ -61,7 +61,7 @@ Aquí te contamos las principales modificaciones:
 
 # Programa para Windows
 
-Para convertir el código de Python en un archivo ejecutable (.exe), utilizamos auto-py-to-exe, que da una interfaz amigable de pyinstaller. 
+Para convertir el código de Python en un archivo ejecutable (.exe), utilizó auto-py-to-exe, que da una interfaz amigable de pyinstaller. 
 
 Es necesario instalar auto-py-to-exe ejecutando pip install auto-py-to-exe, para ejecutar el programa se ejecuta auto-py-to-exe en un command promt.
 
@@ -72,11 +72,30 @@ Luego de esto abre una interfaz gráfica donde podemos configurar opciones como 
 <img src="images/autopytoexe.jpg"  height=350>
 </p>
 
+<br>[Volver al Índice](#Índice)
+
 ## Archivos exe
+
+Archivos .exe para correr el programa en windows sin instalar python,ni las librerías utilizadas.
+
 - [Linguo 2.0 Ingles](https://drive.google.com/file/d/1ug1SxR05lRF4IgcpCQVY71AshzoJzce6/view?usp=sharing)
 - [Linguo 2.0 Frances](https://drive.google.com/file/d/1ver1IoIyiuBUS7QKLr6_GC2dKF5RlS1j/view?usp=sharing)
 
-# ¿Cómo utilizar Linguo?
+# Como utilizar Linguo
+
+## Listas de directorios y archivos
+- Carpeta logo -> Donde se guardan las imagenes del los programas.
+- Carpeta audio -> Donde se guardan los archivos de audio.
+- Vocabulario.csv -> Guarda la lista de vocabulario columna1 palabra, columna2 traducción.
+- Linguo 2.0_audios.exe -> Permite genera los archivos .mp3
+- Linguo 2.0.exe -> Permite ejecutar el programa. 
+
+1.- Se debe verificar el archivo **vocabulario.csv**, modificando ese archivo se puede agregar o quitar el vocabulario que usa el programa, se coloca la palabra o frase en ingles y en español.
+
+2.- Cada vez que se modifiqué el archivo **vocamulario.csv** se debe correr **audio.exe**, para el idioma adecuado, eso genera y guarda los archivos .mp3 dentro de la **carpeta audio**.
+
+3.- Ya se puede utilizar el programa ejecutando **linguo2.0.exe** 
+
 <br>[Volver al Índice](#Índice)
 
 # Autor
